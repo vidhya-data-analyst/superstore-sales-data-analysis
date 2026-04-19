@@ -22,6 +22,7 @@ sales-data-analysis/
 │ ├── dashboard_overview.png
 │ └── kpi_cards.png
 │ ├── profit_trend.png
+│ ├── profit_trend_bar.png
 │ └── sales_by_region.png
 │
 ├── sql/
@@ -41,6 +42,9 @@ sales-data-analysis/
 
 ### 🔹 Profit by Order Date 
 ![Sales](images/profit_trend.png)
+
+### 🔹 Profit by Order Date in bar Diagram
+![Sales](images/profit_trend_bar.png)
 
 ### 🔹 Sales by Region
 ![Sales](images/sales_by_region.png)
