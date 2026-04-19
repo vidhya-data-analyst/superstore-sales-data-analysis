@@ -55,9 +55,16 @@ sales-data-analysis/
 
 ---
 
+## 🧹 Data Cleaning
+- Removed duplicate records  
+- Handled missing values  
+- Standardized date and numeric formats
+
+---
+
 ## 💡 Key Insights
-- West region generated the highest sales among all regions  
-- Certain products had high sales but lower profit margins  
+- West region contributed the highest share of total sales, indicating strong regional performance  
+- Certain high-sales products showed low profit margins, highlighting potential pricing or cost issues  
 - Sales trends showed variation across different time periods  
 - Profitability depends not only on sales volume but also on product category  
 
@@ -69,9 +76,9 @@ The project demonstrates how data analysis and visualization can help businesses
 ---
 
 ## 🚀 Future Improvements
-- Add more advanced SQL queries (joins, window functions)
-- Build interactive filters in Power BI dashboard
-- Perform deeper analysis on customer segments
+- Add customer segmentation analysis
+- Use advanced SQL (window functions)
+- Build interactive filters in Power BI
 
 ---
 
